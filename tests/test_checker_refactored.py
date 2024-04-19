@@ -106,14 +106,3 @@ from tictactoe_checker import checker_refactored as checker
 )
 def test_checker(board, expected):
     assert checker.is_solved(board) == expected
-    assert checker.is_solved(board) == expected
-    assert checker.is_solved(board) == expected
-    assert checker.is_solved(board) == expected
-    assert checker.is_solved(board) == expected
-    assert checker.is_solved(board) == expected
-    assert checker.is_solved(board) == expected
-    assert checker.is_solved(board) == expected
-    assert checker.is_solved(board) == expected
-    assert checker.is_solved(board) == expected
-    assert checker.is_solved(board) == expected
-    assert checker.is_solved(board) == expected
